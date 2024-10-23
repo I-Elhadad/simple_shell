@@ -1,4 +1,4 @@
-# Custom Shell
+# Simple Shell
 
 This project implements a simple interactive shell in C, allowing users to execute common Linux commands. It supports process management, foreground and background execution, and serial/parallel command execution using custom operators.
 
